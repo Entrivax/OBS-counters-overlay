@@ -19,6 +19,8 @@ Then, to run, in a terminal, at the project root directory, run:
 npm start
 ```
 
+You can administrate the currently recognized counters at `http://localhost:12222/admin/`. For a counter to appear, it must be called at least one time through the API (via VoiceAttack for example).
+
 ## OBS integration
 
 Just add a browser source to the URL `http://localhost:12222/`.

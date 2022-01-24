@@ -7,6 +7,10 @@ The counters are stored in the file `counters.json`, it stores the date of each 
 
 See it in action [here](https://youtu.be/D9sn_9BwODc)!
 
+## Dependencies
+
+- Tested with [Node.js](https://nodejs.org/en/download/) 14.x/16.x
+
 ## How to run
 
 First, get the dependencies by running, at the project root directory, in a terminal:
